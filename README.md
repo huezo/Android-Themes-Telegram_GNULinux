@@ -27,8 +27,8 @@ Android Themes Telegram - GNU/Linux Theme Dark
 
 # [ download - Descargar ](https://github.com/huezo/Android-Themes-Telegram_GNULinux/releases)
 
-# [ download - Descargar CLICK ](https://github.com/huezo/Android-Themes-Telegram_GNULinux/releases)
+## [ download - Descargar CLICK ](https://github.com/huezo/Android-Themes-Telegram_GNULinux/releases)
 
 # web site ( Sitio Web )
 
-[https://huezohuezo1990.wordpress.com/](https://huezohuezo1990.wordpress.com/)
+## [https://huezohuezo1990.wordpress.com/](https://huezohuezo1990.wordpress.com/)
