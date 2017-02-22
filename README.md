@@ -22,6 +22,15 @@ Android Themes Telegram - GNU/Linux Theme Dark
 
 ![2-0][2-0]
 
+# GNU Linux v 3.0 
+
+[3_0]:https://raw.githubusercontent.com/huezo/Android-Themes-Telegram_GNULinux/master/v3_0.png
+
+![3_0][3_0]
+
+[3-0]:https://raw.githubusercontent.com/huezo/Android-Themes-Telegram_GNULinux/master/v3-0.png
+
+![3-0][3-0]
 
 
 
