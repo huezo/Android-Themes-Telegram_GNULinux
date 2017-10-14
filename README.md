@@ -41,3 +41,18 @@ Android Themes Telegram - GNU/Linux Theme Dark
 # web site ( Sitio Web )
 
 ## [https://huezohuezo1990.wordpress.com/](https://huezohuezo1990.wordpress.com/)
+
+
+# Telegram 
+Channel / Canal
+
+[https://t.me/ThemesTelegramTemas](https://t.me/ThemesTelegramTemas)
+
+user / usuario 
+
+[https://t.me/huezohuezo1990](https://t.me/huezohuezo1990)
+
+
+
+
+
